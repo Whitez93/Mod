@@ -3,6 +3,9 @@
 
 Floating mod menu for il2cpp and other native android games. KittyMemory, MSHook, And64InlineHook and basic string obfuscator (AY obfuscator) included. Assets are stored as base64 in cpp and does not need to be stored under assets folder.
 
+[![Run on Repl.it](https://replit.com/badge/github/Whitez93/Mod)](https://replit.com/new/github/Whitez93/Mod)
+
+
 Support Android 4.4.x up to Android S Preview. ARMv7, x86 and ARM64 architecture supported.
 
 ![](https://i.imgur.com/zeumkBG.gif)
